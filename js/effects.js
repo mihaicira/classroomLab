@@ -29,11 +29,16 @@ if(url.includes("Activities") || url.includes("Outputs")){
     }
 }
 function calcFooter(){
-    var page_content = $("#page-content").offset().top+$("#page-content").height();
+    try{
+        var page_content = $("#page-content").offset().top+$("#page-content").height();
+    }
+    catch{
+        return;
+    }
+
     var windowh = $(document).height();
     var footer = $("#footer").height();
     var margintop = (windowh-page_content) - footer;
-    console.log(margintop)
     $("#footer").css({
         "margin-top":""+margintop+"px"
     });
