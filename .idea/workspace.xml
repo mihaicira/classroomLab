@@ -20,7 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d03e244-144e-4cb0-995e-4d19be777526" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/Joint.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Joint.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/storage/O4_article_Dinca_Lustrea_Onitiu_Crasovan_Berge-image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Activities.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Activities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Outputs.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Outputs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Team.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Centrul de Studii Francofone" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -51,8 +57,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Others\CL\ClassroomLab LAST\js" />
+      <recent name="D:\Others\CL\ClassroomLab LAST\pages\logos" />
       <recent name="D:\Others\CL\ClassroomLab LAST\pages\storage" />
+      <recent name="D:\Others\CL\ClassroomLab LAST\js" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,7 +79,11 @@
       <workItem from="1625173504465" duration="570000" />
       <workItem from="1625577079681" duration="21000" />
       <workItem from="1626822086914" duration="430000" />
-      <workItem from="1626865169580" duration="1977000" />
+      <workItem from="1626865169580" duration="2608000" />
+      <workItem from="1627888642187" duration="21000" />
+      <workItem from="1628076932889" duration="1340000" />
+      <workItem from="1628102192856" duration="238000" />
+      <workItem from="1631129417798" duration="740000" />
     </task>
     <servers />
   </component>
@@ -92,6 +103,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1628102431268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628102431268" />
     <state x="1924" y="0" width="1146" height="809" key="dock-window-1" timestamp="1624367050942">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
